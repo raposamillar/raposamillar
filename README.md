@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi 👋
+- 🔭 I’m currently working on websites for small music businesses.
+- 🌱 I’m currently learning about design.
+- 💬 Ask me about coding 💻 and classical 🎹 music 🎶.
+- 📫 How to reach me: lisa.raposamillar@gmail.com
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I don't like wooden spoons. 🥄 + 🪵 = ew!
+
 
 <!--
 **raposamillar/raposamillar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
