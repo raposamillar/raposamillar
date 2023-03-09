@@ -1,6 +1,6 @@
 ### Hi 👋
 - 🔭 I’m currently working on websites for small music businesses.
-- 🌱 I’m currently learning about design.
+- 🌱 I’m currently learning about design and cyber security.
 - 💬 Ask me about coding 💻 and classical 🎹 music 🎶.
 - 📫 How to reach me: lisa.raposamillar@gmail.com
 - 😄 Pronouns: she/her
