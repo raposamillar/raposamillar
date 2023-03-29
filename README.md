@@ -1,5 +1,5 @@
 ### Hi 👋
-- 🔭 I’m currently working on websites for small music businesses.
+- 🔭 I’m currently working on websites for arts-oriented businesses.
 - 🌱 I’m currently learning about design and cybersecurity.
 - 💬 Ask me about coding 💻 and classical 🎹 music 🎶.
 - 📫 How to reach me: lisa.raposamillar@gmail.com
