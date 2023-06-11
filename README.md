@@ -1,6 +1,6 @@
 ### Hi 👋
-- 🔭 I’m currently working on building a website for my piano duo from scratch.
-- 🌱 I’m currently learning about design and front-end development.
+- 🔭 I’m currently working on building a website for my piano duo from scratch using HTML5, CSS, JavaScript, and React.
+- 🌱 I’m currently learning Swift.
 - 💬 Ask me about coding 💻 and classical 🎹 music 🎶.
 - 📫 How to reach me: lisa.raposamillar@gmail.com
 - 😄 Pronouns: she/her
