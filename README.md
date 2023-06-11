@@ -1,5 +1,5 @@
 ### Hi 👋
-- 🔭 I’m currently working on websites for arts-oriented businesses.
+- 🔭 I’m currently working on building a website for my piano duo from scratch.
 - 🌱 I’m currently learning about design and front-end development.
 - 💬 Ask me about coding 💻 and classical 🎹 music 🎶.
 - 📫 How to reach me: lisa.raposamillar@gmail.com
