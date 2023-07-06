@@ -1,5 +1,5 @@
 ### Hi 👋
-- 🔭 I’m currently working on building a website for my piano duo from scratch using HTML5, CSS3, JavaScript, and React.
+- 🔭 I’m currently working on building a website from scratch using HTML5, CSS3, JavaScript, and React.
 - 🌱 I’m currently learning Swift.
 - 💬 Ask me about coding 💻 and classical 🎹 music 🎶.
 - 📫 How to reach me: lisa.raposamillar@gmail.com
