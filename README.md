@@ -1,7 +1,7 @@
 ### Hi 👋
 - 🔭 I’m currently building a website for a travel agency
 - 🌱 I’m currently learning Swift
-- 💬 Ask me about coding 💻 and classical 🎹 music 🎶
+- 💬 Ask me about coding 💻 and classical music 🎹
 - 📫 How to reach me: lisa.raposamillar@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ My happy place: Running 🏃🏻‍♀️ along the lakeshore in Toronto  
