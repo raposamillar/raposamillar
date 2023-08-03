@@ -1,10 +1,10 @@
 ### Hi 👋
-- 🔭 I’m currently working on building a website for my piano duo from scratch using HTML5, CSS3, JavaScript, and React.
-- 🌱 I’m currently learning Swift.
-- 💬 Ask me about coding 💻 and classical 🎹 music 🎶.
+- 🔭 I’m currently building a website for a travel agency
+- 🌱 I’m currently learning Swift
+- 💬 Ask me about coding 💻 and classical 🎹 music 🎶
 - 📫 How to reach me: lisa.raposamillar@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I don't like wooden spoons. 🥄 + 🪵 = ew!
+- ⚡ My happy place: Running 🏃🏻‍♀️ along the lakeshore in Toronto  
 
 
 <!--
