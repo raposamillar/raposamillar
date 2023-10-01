@@ -1,10 +1,8 @@
-### Hi 👋
-- 🔭 I’m currently building a WordPress website for a travel agency
-- 🌱 I’m currently learning about SEO
-- 💬 Ask me about coding 💻 and classical music 🎹
-- 📫 How to reach me: lisa.raposamillar@gmail.com
-- 😄 Pronouns: she/her
-- ⚡ My happy place: Running 🏃🏻‍♀️ along the lakeshore in Toronto  
+### Bonjour 👋
+- 🛫 Currently, I’m building a WordPress website for a travel agency
+- 🔎 I'm also learning about SEO
+- 🎼 Ask me about coding 💻 and/or classical music 🎹
+- 🏃🏻‍♀️ My happy place: Running along the lakeshore in Toronto  
 
 
 <!--
