@@ -1,6 +1,6 @@
 ### Hi 👋
 - 🔭 I’m currently building a WordPress website for a travel agency
-- 🌱 I’m interested in learning more about UX/UI Design and SEO
+- 🌱 I’m currently learning about SEO
 - 💬 Ask me about coding 💻 and classical music 🎹
 - 📫 How to reach me: lisa.raposamillar@gmail.com
 - 😄 Pronouns: she/her
