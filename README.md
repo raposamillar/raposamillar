@@ -1,6 +1,5 @@
-### Hi 👋 <em>Bonjour</em> 
-- 🛫 Currently, I’m building a WordPress website for a travel agency
-- 🔎 I'm also learning about SEO
+### Hi 👋 <em>Bonjour</em>
+- 🔎 Currently, I'm learning about SEO
 - 🎼 Ask me about coding 💻 and/or classical music 🎹
 - 🏃🏻‍♀️ My happy place: Running along the lakeshore in Toronto  
 
