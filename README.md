@@ -2,7 +2,8 @@
 - 💡 I enjoy front-end development and am exploring UX/UI
 - 🔎 Currently, I'm also learning about SEO
 - 🎼 Ask me about coding 💻 and/or classical music 🎹
-- 🏃🏻‍♀️ My happy place: Running along the waterfront  
+- 🏃🏻‍♀️ My happy place: Running along the waterfront
+- ⚡ Fun fact: J'ai enseignée du piano en français pendant deux ans
 
 
 <!--
