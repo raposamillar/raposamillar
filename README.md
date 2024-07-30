@@ -1,5 +1,5 @@
 ### Hi 👋 <em>Bonjour</em>
-- 🔭 I’m currently working on a website of of local routes used by my running group
+- 🔭 I’m currently working on a website of local routes used by my running group
 - ⚡ Fun fact: J'ai enseigné le piano en français pendant deux ans
 
 
