@@ -1,8 +1,5 @@
 ### Hi 👋 <em>Bonjour</em>
-- 💡 I enjoy front-end development and UX/UI
-- 🔎 I'm also learning about SEO
-- 🎼 Ask me about coding 💻 and/or classical music 🎹
-- 🏃🏻‍♀️ My happy place: Running along the waterfront
+- 🔭 I’m currently working on a website of of local routes used by my running group
 - ⚡ Fun fact: J'ai enseigné le piano en français pendant deux ans
 
 
