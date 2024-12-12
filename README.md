@@ -1,4 +1,4 @@
-### Hi 👋 <em>Bonjour</em>
+### Hi 👋🏼 <em>Bonjour</em>
 - 🔭 I’m currently learning UX/UI Design (and loving it!)
 - 🔭 I'm also working on a webpage of local routes used by my running group
 - ⚡ Fun fact: J'ai enseigné le piano en français pendant deux ans
