@@ -1,6 +1,8 @@
 ### Hi 👋🏼 <em>Bonjour</em>
 - 🌱 I’m currently learning UX/UI Design (and loving it!)
-- 🔭 I'm also working on a webpage of local routes used by my running group
+- 🔭 I'm also working on two projects: 
+        1) a webpage of local routes used by my running group 👟
+        2) a database of musical compositions 🎼
 - ⚡ Fun fact: J'ai enseigné le piano en français pendant deux ans
 - 📫 How to reach me: lisa.raposamillar@gmail.com
 
