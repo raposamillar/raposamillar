@@ -2,7 +2,7 @@
 
 - 🌱 I’m learning UX/UI Design (and loving it!)
 - 🔭 Current project: A database of classical music by an American composer 🎼
-- ⚡ Fun fact: J'ai enseigné le piano en français pendant deux ans
+- ⚡ Fun fact: J'ai enseigné le piano en français à Montréal (l’ouest de l’île) pendant deux ans
 - 📮 How to reach me: lisa.raposamillar@gmail.com
 
 <!--
