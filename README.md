@@ -1,4 +1,4 @@
-### Hi 👋🏼 <em>Bonjour</em>
+### Hi ✨ <em>Bonjour</em>
 
 - 🌱 Learning: Figma
 - ⚡ Fun fact: J'ai enseigné le piano en français à Montréal (l’ouest de l’île) pendant deux ans
