@@ -1,6 +1,6 @@
 ### Hi ✨ <em>Bonjour</em>
 
-- 🌱 Learning: Figma
+- 🌱 Exploring: UX, LXD, and using Figma to convey ideas      
 - ⚡ Fun fact: J'ai enseigné le piano en français à Montréal (l’ouest de l’île) pendant deux ans
 - 📮 Contact: lisa.raposamillar@gmail.com
 
