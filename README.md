@@ -1,6 +1,6 @@
 ### Hi ✨ <em>Bonjour</em>
 
-- 🌱 Learning: PHP      
+- 🌱 Learning: All the time       
 - ⚡ Fun fact: J'ai enseigné le piano en français à Montréal (l’ouest de l’île) pendant deux ans
 - 📮 Contact: lisa.raposamillar@gmail.com
 
