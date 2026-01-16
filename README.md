@@ -1,8 +1,6 @@
-### Hi ✨ <em>Bonjour</em>
+###
 
-- 🌱 Learning: All the time       
-- ⚡ Fun fact: J'ai enseigné le piano en français à Montréal (l’ouest de l’île) pendant deux ans
-- 📮 Contact: lisa.raposamillar@gmail.com
+Frontend web projects for learning and experimentation, most often using HTML, CSS, and JavaScript.
 
 <!--
 **raposamillar/raposamillar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
