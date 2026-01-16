@@ -1,6 +1,6 @@
 ###
 
-Frontend web projects for learning and experimentation, most often using HTML, CSS, and JavaScript.
+Frontend web projects for learning and experimentation, using HTML, CSS, and JavaScript.
 
 <!--
 **raposamillar/raposamillar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
