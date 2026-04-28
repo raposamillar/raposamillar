@@ -1,7 +1,7 @@
 ###
 
-Frontend web projects for learning and experimentation, using HTML, CSS, and JavaScript.
-WP Accessibility Day 2026: Event Media Team 
+- Frontend web projects for learning and experimentation, using HTML, CSS, and JavaScript.
+- WP Accessibility Day 2026: Event Media Team 
 
 <!--
 **raposamillar/raposamillar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
