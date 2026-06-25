@@ -1,7 +1,7 @@
 ###
 
 - Caption editing for WP Accessibility Day 2026: Event Media Team
-- Projects using HTML, CSS, JavaScript, and Python.
+- Projects in HTML, CSS, JavaScript, and Python.
 
 <!--
 **raposamillar/raposamillar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
